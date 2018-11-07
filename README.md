@@ -56,7 +56,7 @@ Di C9 :
 - `python3 prosb.py`
 
 Di Termux :
-- `cd 2019`
+- `cd 2019"
 - `python3 prosb.py`
 
 
