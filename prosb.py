@@ -37,10 +37,10 @@ channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 poll = LinePoll(cl)
 call = cl
-creator = ["ud296655acef67cbd5e8208e63629f78b"]
-owner = ["ud296655acef67cbd5e8208e63629f78b"]
-admin = ["ud296655acef67cbd5e8208e63629f78b"]
-staff = ["ud296655acef67cbd5e8208e63629f78b"]
+creator = ["u70254ffa864521b507735a1e7c57def9"]
+owner = ["u70254ffa864521b507735a1e7c57def9"]
+admin = ["u70254ffa864521b507735a1e7c57def9"]
+staff = ["u70254ffa864521b507735a1e7c57def9"]
 myMid = cl.profile.mid
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
@@ -122,8 +122,8 @@ wait = {
     "sticker":False,
     "selfbot":True,
     "mention":"NGINTIPPP!!!",
-    "Respontag":"SEKANG TAG BESOK JATUH CINTA",
-    "welcome":"Selamat datang & betah",
+    "Respontag":"ايش يا حبيبي💙 قرفتني بهل تاجات😑 ارحمني 🙏🏼",
+    "welcome":"هلا والله 🌷 حيالله💙 ايه والله👈😍👉 لعيونك يا كبير😎 هالرقبة سداده😏 مع تحيات الزعيم ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂",
     "comment":"Like like & like by ARIFISTIFIK",
     "message":"Terimakasih sudah add saya 😃",
     }
