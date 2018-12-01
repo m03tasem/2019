@@ -316,13 +316,13 @@ def help():
                   "║│ " + key + "help2\n" + \
                   "║│ " + key + "help3\n" + \
                   "║┝─[❇SELF COMMAND❇]" + "\n" + \
-                  "║│ " + key + "Me\n" + \
+                  "║│ " + key + "انا\n" + \
                   "║│ " + key + "Mid「@」\n" + \
                   "║│ " + key + "Info「@」\n" + \
                   "║│ " + key + "Nk「@」\n" + \
-                  "║│ " + key + "Kick1「@」\n" + \
-                  "║│ " + key + "Mybot\n" + \
-                  "║│ " + key + "Status\n" + \
+                  "║│ " + key + "احذف「@」\n" + \
+                  "║│ " + key + "بوتاتي\n" + \
+                  "║│ " + key + "الامن\n" + \
                   "║│ " + key + "About\n" + \
                   "║│ " + key + "Restart\n" + \
                   "║│ " + key + "Runtime\n" + \
@@ -331,8 +331,8 @@ def help():
                   "║│ " + key + "Sprespon\n" + \
 				  "║┝───────────────\n" + \
                   "║┝─[❇GRUP COMMAND❇]" + "\n" + \
-                  "║│ " + key + "Tagall\n" + \
-                  "║│ " + key + "Joinall\n" + \
+                  "║│ " + key + "منشنهم\n" + \
+                  "║│ " + key + "تعالو\n" + \
                   "║│ " + key + "Byeall\n" + \
                   "║│ " + key + "Byeme\n" + \
                   "║│ " + key + "Leave「Namagrup」\n" + \
@@ -346,7 +346,7 @@ def help():
                   "║│ " + key + "Remove chat\n" + \
                   "║│ " + key + "Lurking「on/off」\n" + \
                   "║│ " + key + "Lurkers\n" + \
-                  "║│ " + key + "Sider「on/off」\n" + \
+                  "║│ " + key + "اكشفهم「on/off」\n" + \
                   "║│ " + key + "Updatefoto\n" + \
                   "║│ " + key + "Updategrup\n" + \
                   "║│ " + key + "Updatebot\n" + \
